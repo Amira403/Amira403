@@ -1,4 +1,4 @@
-<p align="center"><a href="https://Amira403.github.io"><img width="80%" alt="Hello, I'm Amira I'm a self-taught BackEnd developer !" src="./assets/it’s Amira (1).png" /></a></p>
+<p align="center"><a href="https://Amira403.github.io"><img width="80%" alt="Hello, I'm Amira I'm a self-taught BackEnd developer !" src="./assets/aa.png" /></a></p>
 <h2 align="center">A  BackEnd  dveloper</h2>
 <br />
 <br>
