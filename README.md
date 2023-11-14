@@ -49,7 +49,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Amira403&show_icons=true&locale=en&theme=dark&hide_border=true" alt="Amira403" /></p>
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Amira403&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="Amira403" /></p>
- /></p>
 <br>
 <br>
 <br>
@@ -64,4 +63,4 @@
 <br>
 <br>
 <br>
-<p align="center"><strong>Good - Baaay 👋</strong></p>
+<p align="center"><strong><"Good - Baaay 👋"></strong></p>
